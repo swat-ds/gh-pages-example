@@ -6,7 +6,9 @@ This repository should get us started in outlining the basic aspects of web tech
 
 ### 1) Fork this repository then download the files
 
-### 2) Open up the index.html in a browser and repository folder in your text editor
+### 2) Explore the files you've downloaded
+- Open up the `index.html` in a browser
+- Open the repository folder in your text editor
 
 ### 3) Edit some of the content and style, refresh in the browser
 - Change or add text (you might look at this [list of generators](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/))
@@ -14,6 +16,7 @@ This repository should get us started in outlining the basic aspects of web tech
 - **Comment** and **Uncomment** the stylesheet
 
 ### 4) Add your changes to your fork
+- On GitHub, select edit then cut and paste into the file
 
 ### 5) Publishing the results
 - In `Settings`, rename the repository to **username**.github.io
