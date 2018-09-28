@@ -1,20 +1,28 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
+# What the Web?
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+This repository should get us started in outlining the basic aspects of web technology, including: HTML, CSS, JavaScript, Clients, Servers, and the big messy cobweb of stuff in between!
 
-## Preview
+## Instructions for Today's Class
 
-[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
+### 1) Fork this repository then download the files
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
+### 2) Open up the index.html in a browser and repository folder in your text editor
 
-## Status
+### 3) Edit some of the content and style, refresh in the browser
+- Change or add text (you might look at this [list of generators](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/))
+- Change or add an image
+- **Comment** and **Uncomment** the stylesheet
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
+### 4) Add your changes to your fork
+
+### 5) Publishing the results
+- In `Settings`, rename the repository to **username**.github.io
+- In `Settings`, select the publish option
+
+
+---
+
+This repository builds on Start Bootstrap's [New Age](http://startbootstrap.com/template-overviews/new-age/) theme.
 
 ## Download and Installation
 
